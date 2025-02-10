@@ -1,0 +1,31 @@
+.speech {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+.stage-direction {
+    font-family: "Georgia", serif;
+    font-size: 30px;
+    color: black;
+    background-color: #f4f4f4;
+}
+
+.stage-direction:hover {
+    background-color: #ddd;
+    color: #555;
+}
+
+.name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: black;
+}
+
+.camillo {
+    color: #f93;
+}
+
+.archidamus {
+    color: #f9f;
+}
