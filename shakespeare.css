@@ -22,6 +22,12 @@
     color: black;
 }
 
+.name:hover{
+    text-shadow:3px 3px 6px#555;
+    border: 2px solid rgba(255, 165, 0, 0.8); 
+    color: #ddd;
+}
+
 .camillo {
     color: #f93;
 }
